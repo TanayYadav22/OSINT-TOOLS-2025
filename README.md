@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Awesome OSINT Tools
+# 🕵️‍♂️ OSINT Tools 2025
 
 A curated list of **Open Source Intelligence (OSINT)** tools for researchers, ethical hackers, analysts, and investigators. Includes descriptions and use-cases.
 
